@@ -7,7 +7,7 @@ function App() {
 
     return (
         <div className="h-screen flex flex-col justify-between container mx-auto">
-            <NavBar></NavBar>
+            <NavBar/>
             <MainComponent/>
             <FooterComponent/>
         </div>
